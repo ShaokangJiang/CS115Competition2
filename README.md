@@ -1,6 +1,6 @@
 # CS115Competition2
 
-This is an activity project for class CS115.
+This is a competition project for class CS115.
 
 Here is the original question:
 
